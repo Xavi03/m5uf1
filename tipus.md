@@ -1,4 +1,4 @@
-#
+#M5-Entorns de desenvolupament
 ##Tipus de llenguatges de programació
 
 Un ***llenguatge de programació*** és un llenguatge que permet establir una comunicació entre l’home i la màquina. El llenguatge de programació
@@ -10,7 +10,7 @@ Els diferents tipus de llenguatges són:
 ***-Llenguatge de primera generació o llenguatge màquina:***
   Es l'unic llenguatge que entén l'ordinador directament.
 
-***- Llenguatge de segona generació o llenguatges d'assemblador: 
+***- Llenguatge de segona generació o llenguatges d'assemblador:*** 
   Es el primer llenguatge de programació que utilitza codis mnemotècnics per indicar a la màquina les operacions que ha de dur a terme.
 
 ***-Llenguatge de tercera generació o llenguatges d'alt nivell:***
