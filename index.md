@@ -5,7 +5,7 @@ UF1: Desenvolupament de programari
 
    [1.1. Concepte de programa informàtic](https://github.com/Xavi03/m5uf1/blob/master/programa_informatic.md)
 
-   [1.2. Codi font, codi objecte i codi executable; màquines virtuals]
+   [1.2. Codi font, codi objecte i codi executable; màquines virtuals] (https://github.com/Xavi03/m5uf1/blob/master/codi_font.md)
 
    [1.3. Tipus de llenguatges de programació](https://github.com/Xavi03/m5uf1/blob/master/tipus.md)
    
