@@ -7,7 +7,7 @@ UF1: Desenvolupament de programari
 
    [1.2. Codi font, codi objecte i codi executable; màquines virtuals]
 
-   [1.3. Tipus de llenguatges de programació]
+   [1.3. Tipus de llenguatges de programació](https://github.com/Xavi03/m5uf1/blob/master/tipus.md)
    
    [1.4. Paradigmes de programació]
    
