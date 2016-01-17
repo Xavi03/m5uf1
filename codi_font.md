@@ -1,3 +1,6 @@
+##UF1:Entorns de desenvolupament##
+
+###1.2 Codi font, codi objecte i codi excutable: màquines virtuals###
 
 El ***codi objecte*** és el codi font traduït a codi màquina, però aquest codi encara no pot ser executat per l’ordinador.
 
