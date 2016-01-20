@@ -45,3 +45,30 @@ Aquest fet, però, té diversos inconvenients:
 ***L’orientació a objectes*** és un paradigma de construcció de programes basat en una abstracció del món real.  
 
 Un ***objecte*** és una combinació de dades i mètodes que ens permeten interactuar amb ell. En OO, doncs, els programes són conjunts d’objectes que interactuen entre ells a través de missatges.
+
+####Abstracció
+És el procés en el qual se separen les propietats més importants d’un objecte de les que no ho són. És a dir, per mitjà de l’abstracció es defineixen les característiques essencials d’un objecte del món real, els atributs i comportaments que el defineixen com a tal, per després modelar-lo en un objecte de programari.
+En el procés d’abstracció no ha de ser preocupant la implementació de cada mètode o atribut, només cal definir-los.  
+
+####Encapsulació
+Permet als objectes triar quina informació és publicada i quina informació és amagada a la resta dels objectes. Per això els objectes solen presentar els seus mètodes com a interfícies públiques i els seus atributs com a dades privades o protegides, essent inaccessibles des d’altres objectes. Les característiques que es poden atorgar són:
+• Públic: qualsevol classe pot accedir a qualsevol atribut o mètode declarat com a públic i utilitzar-lo.  
+• Protegit: qualsevol classe heretada pot accedir a qualsevol atribut o mètode declarat com a protegit a la classe mare i utilitzar-lo.  
+• Privat: cap classe no pot accedir a un atribut o mètode declarat com a privat i utilitzar-lo.  
+
+####Modularitat
+Permet poder modificar les característiques de cada una de les classes que defineixen un objecte, de forma independent de la resta de classes en l’aplicació. En altres paraules, si una aplicació es pot dividir en mòduls separats, normalment classes, i aquests mòduls es poden compilar i modificar sense afectar els altres, aleshores aquesta aplicació ha estat implementada en un llenguatge de programació que suporta la modularitat.  
+
+####Jerarquia
+Permet l’ordenació de les abstraccions. Les dues jerarquies més importants d’un sistema complex són l’herència i l’agregació.  
+**L’herència** també es pot veure com una forma de compartir codi, de manera que quan s’utilitza l’herència per definir una nova classe només s’ha d’afegir allò que sigui diferent, és a dir, reaprofita els mètodes i variables, i especialitza el comportament.  
+
+**L’agregació** és un objecte que està format de la combinació d’altres objectes o components. Així, un ordinador es compon d’una CPU, una pantalla, un teclat i un ratolí, i aquests components no tenen sentit sense l’ordinador.  
+
+####El polimorfisme
+És una característica que permet donar diferents formes a un mètode, ja sigui en la definició com en la implementació.  
+La sobrecàrrega (overload) de mètodes consisteix a implementar diverses vegades un mateix mètode però amb paràmetres diferents, de manera que, en invocar-lo, el compilador decideix quin dels mètodes s’ha d’executar, en funció dels paràmetres de la crida.
+
+La sobreescriptura (override) de mètodes consisteix a reimplementar un mètode heretat d’una superclasse exactament amb la mateixa definició (incloent nom de mètode, paràmetres i valor de retorn).  
+
+La implementació del mètode Area() diferent a cada una de les classes derivades; aquestes poden implementar-se de forma diferent o definir-se de forma diferent.
