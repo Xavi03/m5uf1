@@ -1,11 +1,16 @@
 #UF1-Entorns de desenvolupament#
 
-##Paradigmes de programació##
+##1.4-Paradigmes de programació##
 
 Una classificació molt estesa, atenent a la forma de treballar dels programes i a la filosofia amb què van ser concebuts, és la següent:
 
 ###• Paradigma imperatiu/estructurat.  
-El ***paradigma imperatiu/estructurat*** deu el seu nom al paper dominant que exerceixen les sentències imperatives, és a dir aquelles que indiquen dur a terme una determinada operació que modifica les dades guardades en memòria.
+El ***paradigma imperatiu/estructurat*** deu el seu nom al paper dominant que exerceixen les sentències imperatives, és a dir aquelles que indiquen dur a terme una determinada operació que modifica les dades guardades en memòria.  
+La tècnica seguida en la programació imperativa és la programació estructurada.
+La idea és que qualsevol programa, per complex i gran que sigui, pot ser representat mitjançant tres tipus d’estructures de control:  
+• Seqüència.  
+• Selecció.  
+• Iteració.  
 
 ###• Paradigma d’objectes.
 El ***paradigma d’objectes***, típicament conegut com a Programació Orientada a Objectes, és un paradigma de construcció de
